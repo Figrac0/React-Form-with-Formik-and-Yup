@@ -12,8 +12,6 @@ MyCheckBox: Custom checkbox component for terms acceptance.<br>
 CustomForm: Main form component using Formik.<br>
 How to Use<br>
 Install dependencies:<br>
-<br>
-
 npm install formik yup<br>
 Copy the code into your React component and use the CustomForm component where needed.<br>
 <br>
