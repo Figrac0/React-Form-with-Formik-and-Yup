@@ -31,11 +31,11 @@ Example Usage:<br>
 import CustomForm from './CustomForm';<br>
 <br>
 function App() {<br>
-  return (<br>
-    <div className="App"><br>
-      <CustomForm /><br>
-    </div><br>
-  );<br>
+  return (
+    <div className="App">
+      <CustomForm />
+    </div>
+  );
 }<br>
 
 Customization<br><br>
