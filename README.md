@@ -28,15 +28,16 @@ Terms (checkbox, required)<br>
 On form submission, the form data is logged in the console.<br>
 <br>
 Example Usage:<br>
-import CustomForm from './CustomForm';<br>
-<br>
-function App() {<br>
+import CustomForm from './CustomForm';
+
+function App() {
   return (
     <div className="App">
       <CustomForm />
     </div>
   );
-}<br>
+}
+
 
 Customization<br><br>
 You can easily modify the validation schema to adjust rules for fields.<br>
